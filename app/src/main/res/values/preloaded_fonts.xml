@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/acme</item>
+        <item>@font/actor</item>
+        <item>@font/aldrich</item>
+        <item>@font/andika</item>
+        <item>@font/audiowide</item>
+        <item>@font/autour_one</item>
+        <item>@font/biorhyme_bold</item>
+        <item>@font/biryani</item>
+        <item>@font/black_ops_one</item>
+        <item>@font/delius</item>
+    </array>
+</resources>

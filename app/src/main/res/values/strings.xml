@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Aeroyog</string>
+    <string name="title_activity_navbar">NavbarActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="attend">Attendance</string>
+    <string name="more">More</string>
+    <string name="stop">00:00:00</string>
+</resources>
